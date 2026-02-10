@@ -46,7 +46,7 @@ Luego recorta/optimiza/edita tu imagen como desees, agrégala a tu carpeta de pr
 ### Enlaces
 
 - URL en GITHUB de tu proyecto:https://github.com/221k0191-maker/Formulariodecontado.git
-- URL del site:[Agrega la URL del sitio en vivo aquí](https://formulariocontact0.netlify.app/))
+- URL del site:[(https://formulariocontact0.netlify.app/))
 
 ## Autor
 - Alejandra Cime Poot 
