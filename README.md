@@ -33,7 +33,8 @@ Asegúrate de documentar tu configuración y cualquier instrucción especial par
 
 ### Captura de pantalla
 
-![](./screenshot.jpg)
+![](<img width="491" height="592" alt="image" src="https://github.com/user-attachments/assets/795121eb-c297-472b-bd93-1c53f38493b1" />
+)
 
 Agrega una captura de pantalla de tu solución. La forma más fácil de hacerlo es usar un navegador para ver tu proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puedes elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy larga, puede ser mejor recortarla.
 
@@ -47,9 +48,9 @@ Luego recorta/optimiza/edita tu imagen como desees, agrégala a tu carpeta de pr
 - URL del site:[Agrega la URL del sitio en vivo aquí](https://formulariocontact0.netlify.app/))
 
 ## Autor
-- Nombre completo 
-- N° Control
-- Grupo
+- Alejandra Cime Poot 
+- 221k0191
+- A
 - Sitio  - [Alejandra Cime Poot](https://formulariocontact0.netlify.app/)
 - Github - [@tuusuario]((https://github.com/221k0191-maker))
 
