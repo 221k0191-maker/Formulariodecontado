@@ -33,8 +33,9 @@ Asegúrate de documentar tu configuración y cualquier instrucción especial par
 
 ### Captura de pantalla
 
-![](<img width="491" height="592" alt="image" src="https://github.com/user-attachments/assets/795121eb-c297-472b-bd93-1c53f38493b1" />
-)
+![](./screenshot.jpg)
+<img width="491" height="592" alt="image" src="https://github.com/user-attachments/assets/2d01b8e6-7c96-414b-9637-1b7dded2bd9f" />
+
 
 Agrega una captura de pantalla de tu solución. La forma más fácil de hacerlo es usar un navegador para ver tu proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puedes elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy larga, puede ser mejor recortarla.
 
