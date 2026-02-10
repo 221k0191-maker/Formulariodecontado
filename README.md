@@ -43,14 +43,14 @@ Luego recorta/optimiza/edita tu imagen como desees, agrégala a tu carpeta de pr
 
 ### Enlaces
 
-- URL en GITHUB de tu proyecto:
+- URL en GITHUB de tu proyecto:https://github.com/221k0191-maker/Formulariodecontado.git
 - URL del site:[Agrega la URL del sitio en vivo aquí](https://formulariocontact0.netlify.app/))
 
 ## Autor
 - Nombre completo 
 - N° Control
 - Grupo
-- Sitio  - [Agrega tu nombre aquí](https://www.your-site.com)
+- Sitio  - [Alejandra Cime Poot](https://formulariocontact0.netlify.app/)
 - Github - [@tuusuario]((https://github.com/221k0191-maker))
 
 **Nota: Elimina esta nota y agrega/elimina/edita las líneas anteriores según los enlaces que desees compartir.**
