@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  
+  <title>Formulario de contacto</title>
+
+</head>
+<body>
+  <main>
+    <section class="cards">
+      <article class="card">
+        <h1>contactanos</h1>
+        <div class="content">
+          <form>
+            <div class="firstName">
+              <label for="firstName">Nombre<span>*</span></label>
+              <input required type="text" name="firstName" id="firstName">
+            </div>
+            <div class="lastName">
+              <label for="lastName">Apellido<span>*</span></label>
+              <input required type="text" name="lastName" id="lastName">
+            </div>
+            <div class="email">
+              <label for="email">Direccion de correo<span>*</span></label>
+              <input required type="email" name="email" id="email">
+            </div>
+            <div class="queryType">
+              <p>Tipo de consulta<span>*</span></p>
+              <div class="query">
+                <input type="radio" value="General Enquiry" name="queryType" id="generalEnquiry">
+                <label for="generalEnquiry">Conculta general</label>
+              </div>
+              <div class="query">
+                <input type="radio" value="Support Request" name="queryType" id="supportRequest">
+                <label for="supportRequest">Solicitud de soporte</label>
+              </div>
+            </div>
+            <div class="message">
+              <label for="message">Mensaje<span>*</span></label>
+              <textarea required name="message" id="message"></textarea>
+            </div>
+            <div class="consent">
+              <input type="checkbox" name="consent" id="consent">
+              <label for="consent">Concentimiento para ser contactado por el equipo <span>*</span></label>
+            </div>
+            <button type="submit">Enviar</button>
+          </form>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+<script src="./scripts.js"></script>
+</html>
